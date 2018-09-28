@@ -1,6 +1,6 @@
 # Xiaomi Mijia-4K
 
-Hi, in this reposit i share my script anf custom firmware for Xiaomi Mijia 4K.
+Hi, in this repositori i share my script and custom firmware for Xiaomi Mijia 4K.
 
 # Donation
 
