@@ -1,4 +1,4 @@
-#HighBitrate script for Mijia action camera for 0.6.12.06i by Stefano v 1.0
+#HighBitrate script for Mijia action camera for 0.6.16.06i by Stefano v 1.0
 sleep 3
 writew 0xA05613AE 0x42F0 #4K30/25 120Mbps Ultra Fine
 writew 0xA05613BE 0x42C8 #4K30/25 100Mbps S.fine
