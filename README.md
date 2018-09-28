@@ -9,6 +9,7 @@ If you want to support me for this project make a donation PayPal: giordano.stef
 # Script
 
 Installation: Just download the file "autoexec.ash " and place it in the root of the SD card.
+https://github.com/Steppdroid/Mijia-4K/tree/master/script/Hight%20Bitrate
 
 # Firmware
 
